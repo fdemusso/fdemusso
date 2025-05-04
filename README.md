@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**fdemusso/fdemusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm **Flavio De Musso**, a passionate computer science student at the **University of Bari** 👨‍💻
 
-Here are some ideas to get you started:
+Currently in my first year of the **ITPS** course (*Informatica per lo sviluppo del software*).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me
+
+* 💻 I love programming, especially in **C#**, **Python**, and **C**
+* 🌱 Currently learning **advanced programming techniques** and **software design**
+* 🛠️ Building **modern desktop apps** with **WPF** and exploring **AI with Python**
+* 📚 Focused on writing **clean**, **modular** code — especially while preparing for my exams!
+* 🧠 I learn best with clear, well-structured explanations — and I enjoy helping others in the same way
+* 📫 Reach me via **email** or check out my **GitHub projects**
+
+---
