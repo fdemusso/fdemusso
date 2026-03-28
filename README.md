@@ -7,8 +7,8 @@
 
 ### 💡 About Me
 
-- 💻 Coding with **C#**, **Python**, and **C**
-- 🛠️ Building desktop apps (WPF) & exploring AI with Python
+- 💻 Coding with **C#**, **Python**, **C** and Java
+- 🛠️ Building desktop apps (WPF) & exploring LLM and ML with Python
 - 🌱 Learning advanced programming techniques & software design
 - 🧠 I value structured learning and love helping others the same way
 - 📫 Reach me via email or explore my GitHub projects
