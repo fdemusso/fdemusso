@@ -7,7 +7,7 @@ I design and build backend systems, edge-first architectures, and full-stack web
 
 ### ⚡ What I Do
 
-- 🌲 **Edge & Cloud Architectures:** Building scalable, serverless systems with Cloudflare Workers, Hono, D1, and R2 (creator of [BeechCMS](https://github.com/flaviodemuss/BeechCMS)).
+- 🌲 **Edge & Cloud Architectures:** Building scalable, serverless systems with Cloudflare Workers, Hono, D1, and R2 (creator of [BeechCMS](https://github.com/fdemusso/BeechCMS)).
 - ⚙️ **Backend & APIs:** Developing clean, type-safe services using Python (FastAPI), TypeScript, and C# / .NET.
 - 🤖 **Applied AI & Tooling:** Crafting practical CLI utilities, computer vision pipelines, and LLM-assisted workflows.
 - 🖥️ **Self-Hosting & Homelab:** Managing personal infrastructure, local services, and network environments.
